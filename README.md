@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adenijiridwan43
-- 👀 I’m interested in becoming a Ful-stack developer; 
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on javascript
+- 👀 Junior Full-stack developer; 
+- 🌱 I’m currently working with Javascript
+- 💞️ I’m on the watch to collaborate more on object programing in building a dictionary of differenet values.
 - 📫 
 
 <!---
