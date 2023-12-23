@@ -1,16 +1,11 @@
 <img height="300" width="900" src="https://static.vecteezy.com/system/resources/previews/000/829/812/large_2x/binary-code-banner-vector.jpg">
 <h1 align="center">Hey 👋, I am adenjiridwan43</h1>
-<h3 align="center">A developer passionate about automations and Logics, i am also intreseted in working.</h3>
+<h3 align="center">A developer passionate about automations and Logics, i am also opened for collaborating on project that will enable human endeavors.</h3>
 <img align="right" alt="coding sucks in many ways indeed" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-
-<p align="left"> <a href="https://twitter.com/adenijiridwan43" target="blank"><img src="https://img.shields.io/twitter/follow/adenijiridwan43?logo=twitter&style=for-the-badge" alt="adenijiridwan43" /></a> </p>
 
 - 🔭 I’m currently working on [WiNotes](https://github.com/adenijiridwan43/WriteNote)
 
 - 🌱 I’m currently learning **C#**
-
-- 👯 I’m looking to collaborate on **Move, Solidity**
 
 - 📝 I regularly write articles on [https://adenijiridwan43.hashnode.dev/](https://adenijiridwan43.hashnode.dev/)
 
